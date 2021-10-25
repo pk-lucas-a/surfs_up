@@ -10,7 +10,7 @@ The goal of the analysis was to use past weather records to inform a decision to
 
  ![June.png](June.png).  ![Dec.png](Dec.png).
 
-## Major Differences Between the Month Samples
+## Major Differences Between the Two Month's Samples
 - December's minimum temperature was 56 degrees, not ideal in the shake-selling business compared to June's minimum of 64 degrees. 
 - In December, about a quarter of the measurements were under 70 degrees, which would not be prime shake-selling times. 
 - June had 1700 measurements compared to December's 1517, so we could address whether pockets of December are missing from the data due to holiday breaks. 
